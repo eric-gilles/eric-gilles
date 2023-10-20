@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://github.com/eric-gilles" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin eric-gilles1"/></a>
-  <a href="https://linkedin.com/in/linkedin.com/in/eric-gilles1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eric-gilles1"/></a>
+  <a href="https://linkedin.com/in/eric-gilles1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin eric-gilles1"/></a>
   <a href="https://www.facebook.com/eric.gilles.988" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook eric.gilles.988"/></a>
 </p>
