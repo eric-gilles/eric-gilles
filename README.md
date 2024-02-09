@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">Skills Languages & Tools :</h3>
+<!-- <h3 align="left">Skills Languages & Tools :</h3>
 <h4 align="left">Programming Languages :</h4>
 <p align="left">
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS"/>
-</p>
+</p> -->
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://github.com/eric-gilles" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin eric-gilles1"/></a>
