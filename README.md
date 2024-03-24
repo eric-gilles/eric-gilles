@@ -9,8 +9,7 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/eric-gilles/eric-gilles/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/eric-gilles/eric-gilles/output/github-contribution-grid-snake.svggh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/eric-gilles/Projet-Web/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### 💻 Programming languages :
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
