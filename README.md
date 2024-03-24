@@ -1,15 +1,12 @@
-
-
 # <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi There 👋, I'm Éric Gilles !" align="middle" alt="Hi There 👋, I'm Éric Gilles">
 
 
-- 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/)
-- 🌱 I’m currently learning Rust
-- 💬 Ask me just about anything. I am happy to help.
+- 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
+- 🌱 I’m currently learning Rust.
+- 💬 Ask me about anything. I am happy to help.
+- 🎵 I Enjoy Music and Space Stuff ! 🪐
 
-
-
-![Snake animation](https://raw.githubusercontent.com/eric-gilles/Projet-Web/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+#
 
 ### 💻 Programming languages :
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
