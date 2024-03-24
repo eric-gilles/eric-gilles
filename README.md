@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi There 👋, I'm Éric Gilles !" align="middle" alt="Hi There 👋, I'm Éric Gilles">
+# [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=3000&color=FAFAFAFA&vCenter=true&center=true&random=true&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles)](https://github.com/eric-gilles)
 
 
 - 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
