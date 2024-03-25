@@ -1,4 +1,4 @@
-# [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=3000&color=FAFAFAFA&vCenter=true&center=true&random=true&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles)](https://github.com/eric-gilles)‎  
+# [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.herokuapp.com?color=%0A78B1FF&font=Operator+Mono&size=35&pause=3000&vCenter=true&center=true&random=false&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles;Welcome+to+my+Github+page+!)](https://github.com/eric-gilles)‎  
 
 - 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
 - 🌱 I’m currently learning Rust.
