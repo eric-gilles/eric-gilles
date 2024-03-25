@@ -66,4 +66,4 @@
 [![facebook eric.gilles.988](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eric.gilles.988)
 
  
-You can also contact me by mail at [eric.gilles@etu.umontpellier.fr](mailto:gilleseric13@gmail.com) or at [gilleseric13@gmail.com](gilleseric13@gmail.com).
+You can also contact me by mail at [eric.gilles@etu.umontpellier.fr](mailto:eric.gilles@etu.umontpellier.fr) or at [gilleseric13@gmail.com](mailto:gilleseric13@gmail.com)).
