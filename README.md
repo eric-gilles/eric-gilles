@@ -1,5 +1,4 @@
-# [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=3000&color=FAFAFAFA&vCenter=true&center=true&random=true&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles)](https://github.com/eric-gilles)
-
+# [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&pause=3000&color=FAFAFAFA&vCenter=true&center=true&random=true&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles)](https://github.com/eric-gilles)‎  
 
 - 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
 - 🌱 I’m currently learning Rust.
@@ -8,7 +7,7 @@
 
 #
 
-# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3%> Tech Stack :
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%"> Tech Stack :
 
 ### 💻 Programming languages :
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
