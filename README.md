@@ -2,9 +2,9 @@
 
 - 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
 - 🌱 I’m currently learning Rust.
-- 📁 Check out my [Portfolio](https://eric-gilles.github.io/) !
 - 💬 Ask me about anything. I am happy to help.
 - 🎵 I Enjoy Music and Space Stuff ! 🚀
+<!--- 📁 Check out my [Portfolio](https://eric-gilles.github.io/) ! --->
 
 #
 
