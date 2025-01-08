@@ -89,9 +89,11 @@
 
 
 
-## ✉️ Contact me:
+## 📫 Contact Me
 [![github eric-gilles](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eric-gilles)
 [![linkedin eric-gilles](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-gilles1)
 [![facebook eric.gilles.988](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eric.gilles.988)
  
 You can also contact me by mail at [eric.gilles@etu.umontpellier.fr](mailto:eric.gilles@etu.umontpellier.fr) or at [gilleseric13@gmail.com](mailto:gilleseric13@gmail.com).
+
+Feel free to connect with me or check out my repositories below.
