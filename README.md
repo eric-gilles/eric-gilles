@@ -1,7 +1,9 @@
 # [![Hi There 👋, I'm Éric Gilles](https://readme-typing-svg.herokuapp.com?color=%0A78B1FF&font=Operator+Mono&size=38&pause=3000&vCenter=true&center=true&random=false&width=940&lines=Hi+There+%F0%9F%91%8B%2C+I'm+%C3%89ric+Gilles;Welcome+to+my+Github+page+!)](https://github.com/eric-gilles)  
 
+## 👤 About Me :
+- 👨‍💻 I'm Éric, a passionate computer science student from France.
 - 📚 I’m currently studying at [University of Montpellier](https://sciences.edu.umontpellier.fr/) in [Computer Science](https://informatique-fds.edu.umontpellier.fr/).
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and working on several personal projects.
 - 💬 Ask me about anything. I am happy to help.
 - 🎵 I Enjoy Music and Space Stuff ! 🚀
 <!--- 📁 Check out my [Portfolio](https://eric-gilles.github.io/) ! --->
@@ -56,7 +58,13 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4EAE9C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+
+[![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.nltk.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 <br/>
 
@@ -102,6 +110,8 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 <br/>
 
