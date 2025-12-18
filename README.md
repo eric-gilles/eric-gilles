@@ -138,10 +138,8 @@ Check out my social media profiles below to connect with me:
 [![facebook eric.gilles.988](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eric.gilles.988)
 
 ### 📧 Email:  
-You can also contact me by mail :   
-- [eric.gilles@etu.umontpellier.fr](mailto:eric.gilles@etu.umontpellier.fr)
-
-- [gilleseric13@gmail.com](mailto:gilleseric13@gmail.com)
+You can also contact me by mail at [gilleseric13@gmail.com](mailto:gilleseric13@gmail.com)
+<!--- - [eric.gilles@etu.umontpellier.fr](mailto:eric.gilles@etu.umontpellier.fr) !--->
 
 <br/>
 Feel free to connect with me or check out my repositories below. 👇
